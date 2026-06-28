@@ -8,9 +8,12 @@ foreground = '#d9d8e4'
 text = 'CellBackground'
 cursor = 'CellForeground'
 
+# Light pastel-lavender selection with dark text for high contrast.
+# NB: use real hex (not CellForeground/CellBackground) so Omarchy's
+# colors.toml generator can extract these values.
 [colors.selection]
-text = 'CellForeground'
-background = '#302f42'
+text = '#252433'
+background = '#bcb1f1'
 
 [colors.normal]
 black   = '#201f2c'
