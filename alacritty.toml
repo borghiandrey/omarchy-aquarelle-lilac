@@ -1,0 +1,33 @@
+# Bearded Theme — Aquarelle Lilac
+
+[colors.primary]
+background = '#252433'
+foreground = '#d9d8e4'
+
+[colors.cursor]
+text = 'CellBackground'
+cursor = 'CellForeground'
+
+[colors.selection]
+text = 'CellForeground'
+background = '#302f42'
+
+[colors.normal]
+black   = '#201f2c'
+red     = '#eca099'
+green   = '#c3e5a1'
+yellow  = '#f3e1ac'
+blue    = '#afd9ec'
+magenta = '#bcb1f1'
+cyan    = '#a9edd9'
+white   = '#bcbbce'
+
+[colors.bright]
+black   = '#5c5a7d'
+red     = '#f3aabc'
+green   = '#d1e796'
+yellow  = '#f0bba2'
+blue    = '#73bee9'
+magenta = '#edc1ea'
+cyan    = '#a9edd9'
+white   = '#d9d8e4'
