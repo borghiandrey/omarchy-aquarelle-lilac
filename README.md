@@ -13,13 +13,13 @@ lilac → mauve gradient window borders.
 Via the Omarchy Menu: **Install → Style → Theme**, then paste the repo URL:
 
 ```
-https://github.com/<you>/omarchy-aquarelle-lilac
+https://github.com/borghiandrey/omarchy-aquarelle-lilac
 ```
 
 Or from a terminal:
 
 ```bash
-omarchy-theme-install https://github.com/<you>/omarchy-aquarelle-lilac
+omarchy-theme-install https://github.com/borghiandrey/omarchy-aquarelle-lilac
 ```
 
 Activate with **Style → Theme** in the Omarchy Menu, or cycle themes with
@@ -27,7 +27,7 @@ Activate with **Style → Theme** in the Omarchy Menu, or cycle themes with
 
 ## Components
 
-Configures: Hyprland (gradient borders, blur, shadow, animations), Alacritty &
+Configures: Hyprland (lilac gradient border colors), Alacritty &
 Ghostty (16-color palette), Neovim (highlight groups), Btop, Waybar, Walker,
 Mako, Hyprlock, SwayOSD, Chromium, and VSCode (via the BeardedBear extension).
 
